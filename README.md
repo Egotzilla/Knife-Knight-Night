@@ -5,5 +5,3 @@
 ## Gameplay Video
 
 [![Watch the video](https://img.youtube.com/vi/xhIr3HuJAUM/hqdefault.jpg)](https://www.youtube.com/watch?v=xhIr3HuJAUM)
-
-Watch the full video on [YouTube](https://www.youtube.com/watch?v=xhIr3HuJAUM).
